@@ -1,6 +1,7 @@
 # Kanban
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
+Made this Angular project as a practice from Devstackr Youtube channel.
 
 ## Development server
 
